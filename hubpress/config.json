@@ -4,7 +4,13 @@
     "repositoryName": "philipkglass.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Finity",
+    "postsPerPage": "10",
+    "disqus": "finitude.disqus.com"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
