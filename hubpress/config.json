@@ -6,6 +6,7 @@
   },
   "site": {
     "title": "Finity",
+    "description": "Imagination from science fiction, constraints from science fact",
     "postsPerPage": "10",
     "disqus": "finitude.disqus.com"
   },
